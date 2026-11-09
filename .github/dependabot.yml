@@ -12,7 +12,7 @@ updates:
     labels:
       - dependencies
     commit-message:
-      prefix: chore(deps)
+      prefix: "SECURITY-0: chore(deps)"
     groups:
       github-actions-minor-patch:
         update-types:
